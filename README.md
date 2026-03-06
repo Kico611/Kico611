@@ -8,7 +8,7 @@ Developer s fokusom na backend i strojno učenje — BSc Informatika + MSc Podat
 - ⚡ Izgradio sam [Reservix](https://github.com/Kico611/Reservix) — WhatsApp chatbot za automatizaciju rezervacija, aktivno u produkciji
 - 🤖 Od computer visiona ([ParkingDetection](https://github.com/Kico611/ParkingDetection)) do ML predikcije cijena ([CarPricePredictor](https://github.com/Kico611/CarPricePredictor))
 - 🐳 Sve što buildaš mora raditi i na tuđem računalu — zato Docker
-- ☁️ DigitalOcean za hosting — jer sve što buildaš mora negdje živjeti
+- 📚 Trenutno istražujem: gdje AI prestaje biti buzzword i počinje rješavati stvarne probleme
 - 📍 Mostar, BiH
 
 ## Tech koji koristim
