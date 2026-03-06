@@ -1,6 +1,7 @@
 # Kristijan Balić
 
-Developer s fokusom na backend i strojno učenje — BSc Informatika + MSc Podatkovna znanost i inženjerstvo @ FPMOZ. Volim graditi stvari koje zapravo rade u produkciji.
+BSc Informatika + MSc Podatkovna znanost i inženjerstvo @ FPMOZ — još uvijek učim, ali gradim stvari koje zapravo rade.
+Backend, ML i sve između.
 
 ## Zanimljivosti
 
