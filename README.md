@@ -1,7 +1,7 @@
 # Kristijan Balić
 
-Volim graditi stvari koje zapravo rade u produkciji — backend, ML i sve između.
-BSc Informatika + MSc Podatkovna znanost i inženjerstvo.
+Volim graditi stvari koje zapravo rade u produkciji — od backenda i ML modela do deploya i svega između.
+BSc Informatika + MSc Podatkovna znanost i inženjerstvo @ FPMOZ.
 
 ## Zanimljivosti
 
