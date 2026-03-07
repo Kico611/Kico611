@@ -1,23 +1,23 @@
 # Kristijan Balić
 
-Student podatkovne znanosti i developer koji voli graditi projekte i eksperimentirati s backendom, ML modelima i web aplikacijama. Kroz vlastite projekte istražujem kako ideje pretvoriti u funkcionalne aplikacije i učim kako se sustavi ponašaju u stvarnom okruženju.
+Data Science student and developer who enjoys building projects and experimenting with backend systems, ML models, and web applications. Through my own projects, I explore how to turn ideas into functional applications and learn how systems behave in real-world environments.  
 
-## Zanimljivosti
+## Highlights
 
-- 🐍 Python mi je primarni jezik, ali radim i s JavaScriptom i Kotlinom  
-- ⚡ Razvio sam [Reservix](https://github.com/Kico611/Reservix) — WhatsApp chatbot za automatizaciju rezervacija koji se koristi u produkciji  
-- 🤖 Radim projekte iz machine learninga i computer visiona poput [ParkingDetection](https://github.com/Kico611/ParkingDetection) i [CarPricePredictor](https://github.com/Kico611/CarPricePredictor)  
-- 🐳 Deployment i infrastruktura su mi važan dio developmenta — koristim Docker i cloud servere  
-- 📚 Trenutno učim više o backend arhitekturi, ML modelima i skalabilnim sustavima  
-- 📍 Mostar, BiH
+- 🐍 Python is my primary language, but I also work with JavaScript and Kotlin  
+- ⚡ Developed [Reservix](https://github.com/Kico611/Reservix) — WhatsApp chatbot for automating reservations, actively used in production  
+- 🤖 Work on machine learning and computer vision projects like [ParkingDetection](https://github.com/Kico611/ParkingDetection) and [CarPricePredictor](https://github.com/Kico611/CarPricePredictor)  
+- 🐳 Deployment and infrastructure are an important part of my development process — I use Docker and cloud servers  
+- 📚 Currently learning more about backend architecture, ML models, and scalable systems  
+- 📍 Mostar, Bosnia and Herzegovina  
 
-## Tech koji koristim
+## Tech Stack
 
 ```python
 stack = {
     "backend":   ["Python 🐍", "FastAPI", "Spring Boot"],
     "frontend":  ["React ⚛️", "Redux"],
     "ml":        ["scikit-learn", "TensorFlow", "XGBoost"],
-    "baze":      ["MySQL", "Firebase", "Redis"],
+    "databases": ["MySQL", "Firebase", "Redis"],
     "devops":    ["Docker 🐳", "Linux", "DigitalOcean ☁️"]
 }
