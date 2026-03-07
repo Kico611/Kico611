@@ -1,6 +1,6 @@
 # Kristijan Balić
 
-Student podatkovne znanosti i developer koji voli graditi projekte koji rade u stvarnom svijetu — od backend sustava i ML modela do deploya i infrastrukture. Kroz vlastite projekte istražujem kako izgraditi aplikacije koje ne rade samo lokalno, nego mogu funkcionirati i u stvarnom okruženju s korisnicima.
+Student podatkovne znanosti i developer koji voli graditi projekte i eksperimentirati s backendom, ML modelima i web aplikacijama. Kroz vlastite projekte istražujem kako ideje pretvoriti u funkcionalne aplikacije i učim kako se sustavi ponašaju u stvarnom okruženju.
 
 ## Zanimljivosti
 
