@@ -1,15 +1,18 @@
 # Kristijan Balić
 
-Volim graditi stvari koje zapravo rade u produkciji — od backenda i ML modela do deploya i svega između.
-BSc Informatika + MSc Podatkovna znanost i inženjerstvo @ FPMOZ.
+Student podatkovne znanosti i softverski developer koji voli graditi stvarne projekte — od backend sustava i ML modela do deploya i infrastrukture.
+
+Kroz vlastite projekte fokusiram se na izgradnju aplikacija koje rješavaju stvarne probleme i mogu raditi u produkciji.
+
+Trenutno tražim priliku za **internship ili junior developer poziciju** gdje mogu učiti, doprinositi i razvijati se kao inženjer.
 
 ## Zanimljivosti
 
-- 🐍 Python je moj primarni jezik, ali snalazim se i u JavaScript i Kotlin svjetovima
-- ⚡ Izgradio sam [Reservix](https://github.com/Kico611/Reservix) — WhatsApp chatbot za automatizaciju rezervacija, aktivno u produkciji
-- 🤖 Od computer visiona ([ParkingDetection](https://github.com/Kico611/ParkingDetection)) do ML predikcije cijena ([CarPricePredictor](https://github.com/Kico611/CarPricePredictor))
-- 🐳 Sve što buildaš mora raditi i na tuđem računalu — zato Docker
-- 📚 Trenutno istražujem: gdje AI prestaje biti buzzword i počinje rješavati stvarne probleme
+- 🐍 Python mi je primarni jezik, ali radim i s JavaScriptom i Kotlinom
+- ⚡ Razvio sam [Reservix](https://github.com/Kico611/Reservix) — WhatsApp chatbot za automatizaciju rezervacija koji se koristi u produkciji
+- 🤖 Radim projekte iz machine learninga i computer visiona poput [ParkingDetection](https://github.com/Kico611/ParkingDetection) i [CarPricePredictor](https://github.com/Kico611/CarPricePredictor)
+- 🐳 Deployment i infrastruktura su mi važan dio developmenta — koristim Docker i cloud servere
+- 📚 Trenutno učim više o backend arhitekturi, ML modelima i skalabilnim sustavima
 - 📍 Mostar, BiH
 
 ## Tech koji koristim
@@ -19,7 +22,6 @@ stack = {
     "backend":   ["Python", "FastAPI", "Spring Boot"],
     "frontend":  ["React", "Redux"],
     "ml":        ["scikit-learn", "TensorFlow", "XGBoost"],
-    "baze":      ["MySQL", "Firebase", "Redis", "Supabase"],
+    "baze":      ["MySQL", "Firebase", "Redis"],
     "devops":    ["Docker", "Linux", "DigitalOcean"]
 }
-```
