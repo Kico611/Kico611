@@ -1,10 +1,7 @@
 # Kristijan Balić
 
-Student podatkovne znanosti i softverski developer koji voli graditi stvarne projekte — od backend sustava i ML modela do deploya i infrastrukture.
-
-Kroz vlastite projekte fokusiram se na izgradnju aplikacija koje rješavaju stvarne probleme i mogu raditi u produkciji.
-
-Trenutno tražim priliku za **internship ili junior developer poziciju** gdje mogu učiti, doprinositi i razvijati se kao inženjer.
+Student podatkovne znanosti i developer koji voli graditi stvarne projekte — od backend sustava i ML modela do deploya i infrastrukture.
+Kroz projekte istražujem kako izgraditi aplikacije koje ne rade samo lokalno, nego mogu funkcionirati i u stvarnom okruženju s korisnicima.
 
 ## Zanimljivosti
 
